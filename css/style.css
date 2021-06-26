@@ -121,22 +121,12 @@ h1{
     color: #23CE68;
 }
 
-/*@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1200px){
     .wrapper{
         flex-direction: column;
+        text-align: center;
     }
     .left{
         margin-bottom: 50px;
     }
-}*/
-@media (max-width: 1028px) {
-    .wrapper {
-      text-align: center;
-      flex-direction: column;
-
-    }
-    .left{
-        margin-bottom: 50px;
-    }
-  
 }
