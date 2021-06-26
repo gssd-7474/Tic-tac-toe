@@ -124,6 +124,8 @@ h1{
 @media only screen and (max-width: 1200px){
     .wrapper{
         flex-direction: column;
+        text-align: center;
+        
     }
     .left{
         margin-bottom: 50px;
